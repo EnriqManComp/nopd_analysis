@@ -18,7 +18,7 @@ The project covers the full data pipeline:
 
 ## Video Demonstration
 
-[Video Demonstration](BI reports/Video Demonstration.gif)
+![Video Demonstration](https://github.com/EnriqManComp/nopd_analysis/blob/master/BI%20reports/Video%20Demonstration.gif)
 
 
 ## Data Source
