@@ -16,9 +16,13 @@ The project covers the full data pipeline:
 - Designed an interactive Power BI report with intuitive navigation
 - Delivered both executive-level and granular district-level analysis
 
-## Video Demonstration
+## Demonstrations
 
-[Video Demonstration](BI reports/Video Demonstration.gif)
+![Executive Dashboard](https://github.com/EnriqManComp/nopd_analysis/blob/master/BI%20reports/Executive%20Dashboard.png)
+
+![District Dashboard](https://github.com/EnriqManComp/nopd_analysis/blob/master/BI%20reports/District%20Dashboard.png)
+
+![Video Demonstration](https://github.com/EnriqManComp/nopd_analysis/blob/master/BI%20reports/Video%20Demonstration.gif)
 
 
 ## Data Source
