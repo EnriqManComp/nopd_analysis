@@ -18,7 +18,7 @@ The project covers the full data pipeline:
 
 ## Video Demonstration
 
-[Video Demonstration](BI reports/video.mp4)
+[Video Demonstration](BI reports/Video Demonstration.gif)
 
 
 ## Data Source
